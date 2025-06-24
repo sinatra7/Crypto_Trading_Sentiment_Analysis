@@ -40,3 +40,4 @@ This project analyzes the relationship between Bitcoin market sentiment (Fear/Gr
 ## Ideal Candidate
 - Subject: "Junior Data Scientist – Trader Behavior Insights"
 - Email: hrishabkakoty21@gmail.com
+- Degree: Btech CSE Graduate

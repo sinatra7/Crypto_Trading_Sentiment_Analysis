@@ -37,7 +37,6 @@ This project analyzes the relationship between Bitcoin market sentiment (Fear/Gr
 2. Install dependencies: `pip install pandas matplotlib seaborn scipy`
 3. Run `TradeAnalysis.ipynb` in a Jupyter environment to explore the analysis.
 
-## Submission
-For the Junior Data Scientist role at Bajarangs:
-- Submit resume and this project (GitHub link) to `saami@bajarangs.com`, `nagasai@bajarangs.com`, and CC `sonika@primetrade.ai`.
+## Ideal Candidate
 - Subject: "Junior Data Scientist – Trader Behavior Insights"
+- Email: hrishabkakoty21@gmail.com
